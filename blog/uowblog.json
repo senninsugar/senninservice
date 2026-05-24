@@ -1,17 +1,17 @@
 [
   {
-    "title": "新しいブログ記事「Vue.jsの基本」が公開されました",
+    "title": "classroomに来てね",
     "date": "2026/05/24",
-    "unread": true
+    "unread": false
   },
   {
     "title": "うおtubeリリース",
     "date": "2026/05/23",
-    "unread": true
+    "unread": false
   },
   {
     "title": "システムのメンテナンスのお知らせ",
-    "date": "2026/05/20",
+    "date": "2026/05/24",
     "unread": false
   }
 ]
