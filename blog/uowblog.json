@@ -2,8 +2,7 @@
   {
     "title": "classroomに来てね",
     "date": "2026/05/24",
-    "unread": false,
-    "main": "Classroomにがちできてほしい"
+    "unread": false
   },
   {
     "title": "うおtubeリリース",
@@ -11,14 +10,8 @@
     "unread": false
   },
   {
-    "title": "システムのメンテナンスのお知らせ",
-    "date": "2026/05/24",
-    "unread": false
-  },
-  {
     "title": "仙人tubeも使ってね",
     "date": "2026/05/24",
     "unread": false
-  },
+  }
 ]
-
